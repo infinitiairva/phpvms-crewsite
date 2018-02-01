@@ -1,0 +1,12 @@
+=====
+Time: 01.20.18 17:55:11
+=====
+Time: 01.20.18 17:55:11
+Backtrace: DB::write_debug > DB::get_row > OperationsData::getAircraftInfo > FinanceData::getLoadCount > PIREPData::populatePIREPFinance > PIREPData::fileReport > ACARSData::FilePIREP > smartCARS::filepirep
+Query: SELECT * FROM phpvms_aircraft WHERE `id`=B747-400
+Error: (1054) - Unknown column 'B747' in 'where clause'
+=====
+
+
+=====
+

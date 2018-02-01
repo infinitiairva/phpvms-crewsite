@@ -1,0 +1,5 @@
+../core/common/TouchdownStatsData.class.php
+../core/modules/TouchdownStats/TouchdownStats.php
+../core/templates/touchdownstats/touchdownstats_index.php
+/home/saunchad/crew.infinitiairva.com/core/modules/TouchdownStats/
+/home/saunchad/crew.infinitiairva.com/core/templates/touchdownstats/
